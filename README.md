@@ -1,2 +1,1 @@
-# Salad-Maker-Release
-Releases for the salad maker
+Downloads [here](https://github.com/thethiny/Salad-Maker-Release/releases)
