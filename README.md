@@ -10,9 +10,12 @@ You can find all the downloads here, pick the version that you like, but always 
 ---
 
 ## 🔧 Installation
-1. Download the latest release.
-2. Follow the same old tutorial until a new one is here.
-3. If you have problems create an issue(link here) or message me on twitter(link here) or discord (chat with me link here).
+1. Download the latest release.  
+2. Follow the same old tutorial until a new one is here.  
+3. If you have problems, create an **[issue](https://github.com/thethiny/Salad-Maker-Release/issues)**,
+   or message me on [Twitter](https://twitter.com/thethiny),  
+   or message me on Discord: **thethiny**  
+
 
 There are some issues that do not affect the app but they will be worked on. The other languages and images and details aren't done yet. The online version isn't done as well.
 
