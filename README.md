@@ -2,6 +2,7 @@
 
 [![Total Downloads](https://img.shields.io/github/downloads/thethiny/Salad-Maker-Release/total.svg)](https://github.com/thethiny/Salad-Maker-Release/releases)
 [![Latest Release Downloads](https://img.shields.io/github/downloads/thethiny/Salad-Maker-Release/latest/total.svg)](https://github.com/thethiny/Salad-Maker-Release/releases/latest)
+[![Ko-fi](https://img.shields.io/badge/Ko--fi-FF5E5B?logo=ko-fi&logoColor=white)](https://ko-fi.com/D1D219Y0XH)
 
 If you wanna help pay for servers you can check out this link https://ko-fi.com/D1D219Y0XH.
 
